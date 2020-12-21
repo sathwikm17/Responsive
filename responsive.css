@@ -10,7 +10,7 @@
 .one{
   width:100%;
 }
-@media (min-width:640px){
+@media (min-width:200px){
   .container{
     width:100%;
     display: block;
